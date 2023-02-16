@@ -11,11 +11,11 @@ export default function Info() {
             <div id="info-buttons">
                 <div id="info-mail" className="info--buttons">
                     <img src="mail.png" />
-                    <a className="info--mail" href="mailto:sthefanyraga@gmail.com?subject=Hello Sthefany" target="_blank">Mail</a>
+                    <a className="info--mail" href="mailto:sthefanyraga@gmail.com?subject=Hello Sthefany" target="_blank" rel="noreferrer" alt="Mail Icon">Mail</a>
                 </div>
                 <div id="info-linkedin" className="info--buttons">
                     <img src="linkedin.png" />
-                    <a href="https://www.linkedin.com/in/sthefany-raga-b23b96243/" target="_blank">Linkedin</a>
+                    <a href="https://www.linkedin.com/in/sthefany-raga-b23b96243/" target="_blank" rel="noreferrer" alt="Linkedin Icon">Linkedin</a>
                 </div>
             </div>
         </div >
