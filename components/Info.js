@@ -7,7 +7,7 @@ export default function Info() {
         <div id="info">
             {photo}
             <h1>Sthefany Raga</h1>
-            <h2>QA Engineer / Developer Junior</h2>
+            <h2>QA Engineer / Junior Web Developer</h2>
             <div id="info-buttons">
                 <div id="info-mail" className="info--buttons">
                     <img src="mail.png" />
